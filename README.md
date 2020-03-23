@@ -1,2 +1,2 @@
 # hello-world
-Hi huamans!
+Hi humans!
